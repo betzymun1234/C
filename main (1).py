@@ -13,3 +13,4 @@ def cakePrinter(cake):
   }
   print(switcher.get( cake, " No cake!?")) #default
 cakePrinter( cake )
+#HI
